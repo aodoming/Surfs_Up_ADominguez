@@ -3,7 +3,9 @@ Investing in a "Surf n Shake" shop, by first running analytics on a weather data
 
 
 # Compare your findings between the month of July and December seasonal data.
-  # July precipitation  
+ 
+ ##### July Precipitation 
+ 
   count	178.000000	           
   mean	0.199494	             
   std	0.342967	               
@@ -13,7 +15,7 @@ Investing in a "Surf n Shake" shop, by first running analytics on a weather data
   75%	0.247500             
   max	2.370000                
 
-  # December precipitation
+  ##### December Precipitation
     count	163.000000
     mean	0.401656
     std	1.164754

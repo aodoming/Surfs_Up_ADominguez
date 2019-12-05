@@ -1,4 +1,4 @@
-# surfs_up_ADominguez
+# Surfs_Up_ADominguez
 ### Investing in a "Surf n Shake" shop, by first running analytics on a weather data set of location.
 
 

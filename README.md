@@ -5,16 +5,16 @@
 ##### Compare your findings between the month of July and December seasonal data.
  
  ##### July Precipitation 
-  ```count	178.000000	           
+     count	178.000000	           
      mean	0.199494	             
      std	0.342967	               
      min	0.000000	              
      25%	0.020000	               
      50%	0.060000	               
      75%	0.247500             
-     max	2.370000                
+     max	2.370000          
 
-  ##### December Precipitation
+ ##### December Precipitation
     count	163.000000
     mean	0.401656
     std	1.164754
@@ -31,4 +31,6 @@ Both months had no min values.
 
 
 # Receommendations for further analysis
-
+1)
+2)
+3)

@@ -30,7 +30,7 @@ All the percentile values however, were high for June than in Dec.
 Both months had no min values.
 
 
-# Receommendations for further analysis
+### Receommendations for further analysis
 1) Calculate daily normals, ie. the average daily maximum (tmax) and minimum (tmin) temperatures for specific month & day.
 2) Calculate rainfall per weather station for specific dates using the previous year's matching dates.
    And list the station, name, latitude, longitude, and elevation; sort desc order by precipitation amount. 

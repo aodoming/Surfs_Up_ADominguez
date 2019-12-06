@@ -1,7 +1,6 @@
 # Surfs_Up_ADominguez
 ### Investing in a "Surf n Shake" shop, by first running analytics on a weather data set of location.
 
-
 ##### Compare your findings between the month of June and December -seasonal data.
  
  ##### June Precipitation 

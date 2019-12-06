@@ -1,18 +1,8 @@
 # Surfs_Up_ADominguez
 ### Investing in a "Surf n Shake" shop, by first running analytics on a weather data set of location.
 
-##### Compare your findings between the month of June and December -seasonal data.
- 
- ##### June Precipitation 
-     count	1574.000000          
-     mean	0.136360	             
-     std	0.335731	               
-     min	0.000000	              
-     25%	0.000000	               
-     50%	0.020000	               
-     75%	0.120000             
-     max	4.430000   
-     
+##### Compare your findings between the month of June and December for all locations for all years.
+
 ##### June Precipitation 	  tobs
 count	1574.000000	       1700.000000
 mean	  0.136360	         74.944118
@@ -22,20 +12,9 @@ min	   0.000000	         64.000000
 50%	   0.020000	         75.000000
 75%	   0.120000    	     77.000000
 max	   4.430000    	     85.000000
-     
- ##### December Precipitation
-    count	1405.000000
-    mean	0.216819
-    std	0.541399
-    min	0.000000
-    25%	0.000000
-    50%	0.030000
-    75%	0.150000
-    max	6.420000
 
 
-
- ##### December Precipitation  tobs
+##### December Precipitation  tobs
 count	 1405.000000	       1517.000000
 mean	   0.216819	         71.041529
 std	    0.541399	         3.745920
@@ -48,8 +27,12 @@ max	    6.420000	         83.000000
 June statistics for all stations, for all years had more precipitation amount than its equivalent in December.
 But the mean, std, and max values were lower in June for all stations, for all years than in December's eqivalent in spite of the precipitation count for June.
 
-For all the percentiles, but for the 25% values  which is zero for both months for all stations for all years, the 50%however, were high for June than in Dec.
+For all the percentiles, but for the 25% values  which is zero for both months for all stations for all years, the 50% and
+75% percentiles however were high for Dec than in June.
 Both months had no min values.
+
+When it comes to the temperature observations (tobs) count, min, 25%, 50%,75% and max data, June saw the highest values than in Dec.
+It is only in the std statistic data that we see Dec values greater than that of June's.
 
 
 ### Receommendations for further analysis

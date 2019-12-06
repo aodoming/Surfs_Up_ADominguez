@@ -64,7 +64,7 @@ def welcome():
         f"/api/v1.0/temp/start/end<br/>"
 	)
                                                 ## Precipitation Route ##
-# Create the Precipitation Route for the last year
+# Create a GET route for the Precipitation for the last year
 @app.route("/api/v1.0/precipitation")
 
 # First, create the precipitation() function.
@@ -121,6 +121,7 @@ def temp_monthly():
 # Next, create a function called stats()
 # We need to add parameters to our stats() function: a start parameter and an end parameter.
 def stats(start=None, end=None):
+        
         # Create a query to select the minimum, average, and maximum temperatures from our SQLite database
         sel = [func.min(Measurement.tobs), func.avg(Measurement.tobs), func.max(Measurement.tobs)]
 
@@ -137,3 +138,12 @@ def stats(start=None, end=None):
         temps = list(np.ravel(results))
         return jsonify(temps)
 
+        # Calculate TMIN, TAVG, TMAX with start and stop
+        results = session.query(*sel).\
+                        filter(Measurement.date >= start).\
+                        filter(Measurement.date <= end).all()
+        temps = list(np.ravel(results))
+        return jsonify(temps)
+
+if __name__  == "__main__":
+        app.run(debug=True)

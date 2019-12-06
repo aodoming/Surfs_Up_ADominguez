@@ -5,28 +5,31 @@
 ##### Compare your findings between the month of June and December -seasonal data.
  
  ##### June Precipitation 
-     count	173.000000          
-     mean	0.212312	             
-     std	0.327195	               
+     count	1574.000000          
+     mean	0.136360	             
+     std	0.335731	               
      min	0.000000	              
-     25%	0.010000	               
-     50%	0.060000	               
-     75%	0.280000             
-     max	1.700000          
-
+     25%	0.000000	               
+     50%	0.020000	               
+     75%	0.120000             
+     max	4.430000          
+     
  ##### December Precipitation
-    count	163.000000
-    mean	0.401656
-    std	1.164754
+    count	1405.000000
+    mean	0.216819
+    std	0.541399
     min	0.000000
     25%	0.000000
-    50%	0.050000
-    75%	0.245000
-    max	9.640000
+    50%	0.030000
+    75%	0.150000
+    max	6.420000
 
 
-June had more precipitation amount than December. But the mean, std, and max values were lower in June than in Dec in spite of the count.
-All the percentile values however, were high for June than in Dec.
+
+June statistics for all stations, for all years had more precipitation amount than its equivalent in December.
+But the mean, std, and max values were lower in June for all stations, for all years than in December's eqivalent in spite of the precipitation count for June.
+
+For all the percentiles, but for the 25% values  which is zero for both months for all stations for all years, the 50%however, were high for June than in Dec.
 Both months had no min values.
 
 

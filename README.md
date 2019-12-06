@@ -11,7 +11,17 @@
      25%	0.000000	               
      50%	0.020000	               
      75%	0.120000             
-     max	4.430000          
+     max	4.430000   
+     
+##### June Precipitation 	  tobs
+count	1574.000000	       1700.000000
+mean	  0.136360	         74.944118
+std   	0.335731	         3.257417
+min	   0.000000	         64.000000
+25%	   0.000000	         73.000000
+50%	   0.020000	         75.000000
+75%	   0.120000    	     77.000000
+max	   4.430000    	     85.000000
      
  ##### December Precipitation
     count	1405.000000
@@ -24,6 +34,16 @@
     max	6.420000
 
 
+
+ ##### December Precipitation  tobs
+count	 1405.000000	       1517.000000
+mean	   0.216819	         71.041529
+std	    0.541399	         3.745920
+min    	0.000000	         56.000000
+25%	    0.000000	         69.000000
+50%	    0.030000	         71.000000
+75%	    0.150000	         74.000000
+max	    6.420000	         83.000000
 
 June statistics for all stations, for all years had more precipitation amount than its equivalent in December.
 But the mean, std, and max values were lower in June for all stations, for all years than in December's eqivalent in spite of the precipitation count for June.

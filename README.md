@@ -12,7 +12,7 @@ Determine key statistical data about the month of June and the month of December
 ### RESULTS
 * Compare your findings between the month of June and December for all locations for all years.
   
-  |                                     | 
+                                                           
   |June Precipitation 	   |tobs        |
   |------|-----------------|------------|
   |count |	1574.000000	   |1700.000000 |

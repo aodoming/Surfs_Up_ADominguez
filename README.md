@@ -23,11 +23,10 @@ Determine key statistical data about the month of June and the month of December
   | max	   |  4.430000         | 85.000000   |
   
 
-| Tables        | Are           | Cool  |
+|June Precipitation  |           | tobs   |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 |count   |	1574.000000	     |1700.000000  |
   | mean	 |  0.136360	       | 74.944118   |
   | std    | 	0.335731	       | 3.257417    |

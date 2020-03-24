@@ -10,9 +10,7 @@ Use Jupyter Notebook for our precipitation and station analysis and use VS Code 
 Determine key statistical data about the month of June and the month of December. Compare your findings between the month of June and December and then make 2 or 3 recommendations for further analysis.
 
 ### RESULTS
-* Compare your findings between the month of June and December for all locations for all years.
-  
-                                                           
+* Compare your findings between the month of June and December for all locations for all years.                                            
   |June Precipitation 	       |tobs         |
   |--------|:-----------------:|------------:|
   |count   |	1574.000000	     |1700.000000  |

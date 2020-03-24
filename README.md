@@ -21,6 +21,13 @@ Determine key statistical data about the month of June and the month of December
   | 50%	   |  0.020000	       | 75.000000   |
   | 75%    |  0.120000    	   | 77.000000   |
   | max	   |  4.430000         | 85.000000   |
+  
+  
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 
    * December Precipitation  tobs
